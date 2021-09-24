@@ -5,4 +5,3 @@ https://hack.codingblocks.com/admin/contents/1874/problem?step=7
 
 Valid parenthesis
 
-https://codeforces.com/problemset/problem/1165/E
